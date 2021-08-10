@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Open the app in browser
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developed using React js, firebase,Stripe,  [Amazon-clone](https://clone-ba6c7.web.app/).
 
 ## Available Scripts
 
